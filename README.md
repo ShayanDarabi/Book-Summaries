@@ -46,3 +46,6 @@ For generating visual representations of book summaries, I utilized the `Stable 
 
 # Results
 The generated image is available below. Additionally, I provide some statistics regarding the dataset used for evaluation.
+<div align="center">
+<center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/firstGeneratedImage.png" alt="Image Description" style="width:50%;"/></center>
+</div>
