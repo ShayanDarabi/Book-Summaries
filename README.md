@@ -49,3 +49,9 @@ The generated image is available below. Additionally, I provide some statistics 
 <div align="center">
 <center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/firstGeneratedImage.png" alt="Image Description" style="width:50%;"/></center>
 </div>
+<div align="center">
+<center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/genrebarplot.png" alt="Image Description" style="width:50%;"/></center>
+</div>
+<div align="center">
+<center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/authorbarplot.png" alt="Image Description" style="width:50%;"/></center>
+</div>
