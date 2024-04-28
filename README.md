@@ -14,7 +14,7 @@ We have a text file of books called booksummaries.txt. Three main tasks need to 
   
 # EDA Phase
 
-In the first section, dedicated to the Exploratory Data Analysis (EDA) phase, I aimed to extract important information from each book using Regex. Additionally, leveraging together.ai and the large language model Llama, I converted an unstructured file into two structured JSON files named `bookinfo.json` and `bookInfo(withSummary).json`. 
+In the first section, dedicated to the Exploratory Data Analysis (EDA) phase, I aimed to extract important information from each book using `regex`. Additionally, leveraging `together.ai` and the large language model `Llama`, I converted an unstructured file into two structured JSON files named `bookinfo.json` and `bookInfo(withSummary).json`. 
 
 ## Dataframe Creation
 
