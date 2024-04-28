@@ -47,11 +47,11 @@ For generating visual representations of book summaries, I utilized the `Stable 
 # Results
 The first generated image is available below. Additionally, I provide some statistics regarding the dataset used for evaluation.
 <div align="center">
-<center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/firstGeneratedImage.png" alt="Image Description" style="width:50%;"/></center>
+<center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/img/firstGeneratedImage.png" alt="Image Description" style="width:50%;"/></center>
 </div>
 <div align="center">
-<center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/genrebarplot.png" alt="Image Description" style="width:50%;"/></center>
+<center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/img/genrebarplot.png" alt="Image Description" style="width:50%;"/></center>
 </div>
 <div align="center">
-<center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/authorbarplot.png" alt="Image Description" style="width:50%;"/></center>
+<center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/img/authorbarplot.png" alt="Image Description" style="width:50%;"/></center>
 </div>
