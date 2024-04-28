@@ -32,7 +32,7 @@ Using this dataframe, I performed data cleaning operations on the columns to ens
 
 ## Dataset Report
 
-Finally, using the ydata_profiling library, I generated a report on the dataset, which can be found in the `bookReport.html` file.
+Finally, using the `ydata_profiling` library, I generated a report on the dataset, which can be found in the `bookReport.html` file.
 
 ## Missing Values Handling
 
