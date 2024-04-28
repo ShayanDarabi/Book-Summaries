@@ -45,7 +45,7 @@ In the second phase, I experimented with language models tailored for summarizat
 For generating visual representations of book summaries, I utilized the `Stable Diffusion` model available on Hugging Face. Stable Diffusion is a deep learning, text-to-image model released in 2022 based on diffusion techniques. It is considered to be a part of the ongoing artifical intelligence boom. Although this model provides excellent results, it demands substantial hardware resources. Due to memory constraints, I resorted to the `Clipdrop` platform, allowing me to generate images using the Stable Diffusion API. 
 
 # Results
-The generated image is available below. Additionally, I provide some statistics regarding the dataset used for evaluation.
+The first generated image is available below. Additionally, I provide some statistics regarding the dataset used for evaluation.
 <div align="center">
 <center><img src="https://github.com/ShayanDarabi/Book-Summaries/blob/master/firstGeneratedImage.png" alt="Image Description" style="width:50%;"/></center>
 </div>
